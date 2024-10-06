@@ -6,7 +6,7 @@
 
 * Mandarin dataset
   
-Please refer to folder: /data/mandarin
+Please go to folder: /data/mandarin
 
 mandarin.tsv: contains rating data, column "word" indicates the target word, "sentence" indicates the context/ sentence, column "index" is the position of the target word in the context (starting from 1), column "source" indicates the source of the sentence, column "set" indicates the set type of the current word: training, validation or test.
 
@@ -15,10 +15,12 @@ mandarin_emb.json: contains ratings with CINO word embeddings
 mandarin_vocab_info.csv: contains handcrafted features, including strokes, log frequency and word length.
 
 * Cantonese dataset
+  
 Please contact us for the Cantonese dataset. 
 
 ## Code
-regressor.py
+
+Please refer to regressor.py
 
 ## Disclaimer
 
