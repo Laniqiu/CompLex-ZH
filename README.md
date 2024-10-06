@@ -5,7 +5,8 @@
 
 
 * Mandarin dataset
-/data/mandarin
+  
+Please refer to folder: /data/mandarin
 
 mandarin.tsv: contains rating data, column "word" indicates the target word, "sentence" indicates the context/ sentence, column "index" is the position of the target word in the context (starting from 1), column "source" indicates the source of the sentence, column "set" indicates the set type of the current word: training, validation or test.
 
