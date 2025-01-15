@@ -1,5 +1,7 @@
 # CompLex-ZH
 
+This is the project for our paper [CompLex-ZH: A New Dataset for Lexical Complexity Prediction in Mandarin and Cantonese](https://aclanthology.org/2024.tsar-1.3/)
+
 ## Dataset
 
 
