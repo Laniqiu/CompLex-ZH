@@ -18,7 +18,7 @@ mandarin_vocab_info.csv: contains handcrafted features, including strokes, log f
 
 * Cantonese dataset
   
-Please contact us for the Cantonese dataset. 
+Please contact us for the Cantonese dataset (&#108;&#97;&#110;&#105;&#46;&#113;&#105;&#117;&#64;&#99;&#111;&#110;&#110;&#101;&#99;&#116;&#46;&#112;&#111;&#108;&#121;&#117;&#46;&#104;&#107;)
 
 ## Code
 
