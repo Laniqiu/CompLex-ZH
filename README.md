@@ -24,6 +24,34 @@ Please contact us for the Cantonese dataset.
 
 Please refer to regressor.py
 
+## citation
+If you refer to our paper or use our dataset, please cite it as follows:
+
+@inproceedings{qiu-etal-2024-complex,
+    title = "{C}omp{L}ex-{ZH}: A New Dataset for Lexical Complexity Prediction in {M}andarin and {C}antonese",
+    author = "Qiu, Le  and
+      Guo, Shanyue  and
+      Wong, Tak-Sum  and
+      Chersoni, Emmanuele  and
+      Lee, John  and
+      Huang, Chu-Ren",
+    editor = "Shardlow, Matthew  and
+      Saggion, Horacio  and
+      Alva-Manchego, Fernando  and
+      Zampieri, Marcos  and
+      North, Kai  and
+      {\v{S}}tajner, Sanja  and
+      Stodden, Regina",
+    booktitle = "Proceedings of the Third Workshop on Text Simplification, Accessibility and Readability (TSAR 2024)",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.tsar-1.3/",
+    doi = "10.18653/v1/2024.tsar-1.3",
+    pages = "20--26"
+}
+
 ## Disclaimer
 
 The dataset provided may contain various types of content, including sensitive material such as political opinions, adult themes, and other potentially controversial topics.
