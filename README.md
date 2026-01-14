@@ -24,9 +24,10 @@ Please contact us for the Cantonese dataset.
 
 Please refer to regressor.py
 
-## citation
+## Citation
 If you refer to our paper or use our dataset, please cite it as follows:
 
+```bibtex
 @inproceedings{qiu-etal-2024-complex,
     title = "{C}omp{L}ex-{ZH}: A New Dataset for Lexical Complexity Prediction in {M}andarin and {C}antonese",
     author = "Qiu, Le  and
@@ -51,6 +52,8 @@ If you refer to our paper or use our dataset, please cite it as follows:
     doi = "10.18653/v1/2024.tsar-1.3",
     pages = "20--26"
 }
+```
+
 
 ## Disclaimer
 
